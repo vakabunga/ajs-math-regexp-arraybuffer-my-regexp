@@ -6,3 +6,4 @@ export default class Validator {
     throw new Error('invalid name');
   }
 }
+  
